@@ -1,3 +1,6 @@
 [submodule "Flipper"]
 	path = Flipper
 	url = git@github.com:UberGuidoZ/Flipper.git
+[submodule "Flipper-IRDB"]
+	path = Flipper-IRDB
+	url = git@github.com:UberGuidoZ/Flipper-IRDB.git
