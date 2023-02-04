@@ -1,0 +1,3 @@
+[submodule "Flipper"]
+	path = Flipper
+	url = git@github.com:UberGuidoZ/Flipper.git
