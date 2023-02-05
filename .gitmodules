@@ -10,3 +10,6 @@
 [submodule "flipperzero-bruteforce"]
 	path = flipperzero-bruteforce
 	url = https://github.com/tobiabocchi/flipperzero-bruteforce
+[submodule "awesome-flipperzero"]
+	path = awesome-flipperzero
+	url = git@github.com:djsime1/awesome-flipperzero.git
