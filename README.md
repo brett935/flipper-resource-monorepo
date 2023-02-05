@@ -33,6 +33,7 @@ git submodule status
 https://github.com/UberGuidoZ/Flipper
 https://github.com/UberGuidoZ/Flipper-IRDB
 https://github.com/tobiabocchi/flipperzero-bruteforce
+https://github.com/SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming
 
 ---
 
