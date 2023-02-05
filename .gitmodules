@@ -7,3 +7,6 @@
 [submodule "Flipper-Zero-Sub-GHz-Jamming"]
 	path = Flipper-Zero-Sub-GHz-Jamming
 	url = git@github.com:SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming.git
+[submodule "flipperzero-bruteforce"]
+	path = flipperzero-bruteforce
+	url = https://github.com/tobiabocchi/flipperzero-bruteforce

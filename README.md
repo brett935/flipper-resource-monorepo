@@ -32,6 +32,7 @@ git submodule status
 # Resources
 https://github.com/UberGuidoZ/Flipper
 https://github.com/UberGuidoZ/Flipper-IRDB
+https://github.com/tobiabocchi/flipperzero-bruteforce
 
 ---
 
