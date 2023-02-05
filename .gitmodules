@@ -4,3 +4,6 @@
 [submodule "Flipper-IRDB"]
 	path = Flipper-IRDB
 	url = git@github.com:UberGuidoZ/Flipper-IRDB.git
+[submodule "Flipper-Zero-Sub-GHz-Jamming"]
+	path = Flipper-Zero-Sub-GHz-Jamming
+	url = git@github.com:SHUR1K-N/Flipper-Zero-Sub-GHz-Jamming.git
